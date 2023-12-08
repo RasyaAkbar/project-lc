@@ -1,3 +1,4 @@
+#What is the shortest path to each city according to their starting point?
 import heapq
 def shortestPath(n, edges, src):
         #create adjacent list
